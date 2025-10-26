@@ -8,13 +8,12 @@ This project implements a distributed Retrieval-Augmented Generation (RAG) syste
 - LangChain for text splitting
 - Gradio UI for interactive querying with toggleable retrieval
 
-A lightweight Ollama model (`phi`) is used to ensure smooth operation on 8 GB RAM laptops.
 
 ***
 
 ## Features
 
-- Ingests your own text documents to build searchable vector stores
+- Ingest text documents to build searchable vector stores
 - Retrieves relevant context during query time to augment LLM answers
 - Toggleable retrieval for direct comparison of hallucination reduction
 - Simple web UI through Gradio for easy experimentation
