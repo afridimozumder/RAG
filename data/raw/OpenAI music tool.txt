@@ -1,0 +1,5 @@
+﻿OpenAI reportedly developing new generative music tool
+OpenAI is working on a new tool that would generate music based on text and audio prompts, according to a report in The Information.
+Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said. It’s not clear when OpenAI plans to launch such a tool or whether it would be available as a standalone product (as opposed to integrating with OpenAI’s ChatGPT and video app Sora).
+One source told The Information that OpenAI is working with some students from the Juilliard School to annotate scores as a way to provide training data.
+While OpenAI has launched generative music models in the past, they predate the launch of ChatGPT; more recently, the company has been developing audio models focused on text-to-speech and speech-to-text. Other companies with generative music models include Google and Suno.
