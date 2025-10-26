@@ -1,4 +1,4 @@
-# Distributed Retrieval-Augmented Generation (RAG) Project
+# Distributed Retrieval-Augmented Generation (RAG) to mitigate hallucination in LLM
 
 ## Overview
 This project implements a distributed Retrieval-Augmented Generation (RAG) system to reduce hallucinations in large language models (LLMs). It integrates:
