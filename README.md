@@ -75,24 +75,6 @@ Type queries and toggle retrieval on/off to test hallucination mitigation.
 - **llm.py**: Calls Ollama LLM with or without retrieved context for answer generation
 - **gradio_ui.py**: Web UI frontend with toggling of context retrieval
 
-***
-
-## Example Usage
-
-- Ask factual or cybersecurity questions relevant to your ingested documents.
-- Compare answers with retrieval enabled (context-augmented) and disabled (vanilla LLM).
-- Observe improvement in accuracy and hallucination reduction when retrieval is enabled.
-
-***
-
-## Notes
-
-- Use the lightweight `phi` model to fit 8GB RAM constraints.
-- You can remove models with `ollama rm <model-name>` if needed.
-- Ensure Ollama Desktop is running when querying models.
-
-***
-
 ## Future Work
 
 - Scale to more distributed peers for improved data privacy.
